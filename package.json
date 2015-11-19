@@ -70,7 +70,7 @@
   },
   "license": "MIT",
   "scripts": {
-    "install": "node-gyp rebuild --target=0.30.6 --dist-url=https://atom.io/download/atom-shell",
+    "install": "node-gyp rebuild --target=0.35.0 --dist-url=https://atom.io/download/atom-shell",
     "test": "grunt --verbose"
   }
 }
